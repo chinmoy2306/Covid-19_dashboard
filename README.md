@@ -7,10 +7,10 @@ The dataset used for this project is sourced from the website "https://www.track
 This repository is structured as follows:
 -	Readme file: README.md
 -	SQL dataset files:
-	- covid_confirmed_global.sql
-	- covid_death_global.sql
-	- covid_recovered_global.sql
--	Covid-19_Dashboard.pbix:
+	- [covid_confirmed_global.sql](https://github.com/chinmoy2306/Covid-19_dashboard/blob/4b06a7fbcab8f90372d788d8c249dd7ddb0d70df/covid_confirmed_global.sql)
+	- [covid_death_global.sql](https://github.com/chinmoy2306/Covid-19_dashboard/blob/4b06a7fbcab8f90372d788d8c249dd7ddb0d70df/covid_death_global.sql)
+	- [covid_recovered_global.sql](https://github.com/chinmoy2306/Covid-19_dashboard/blob/4b06a7fbcab8f90372d788d8c249dd7ddb0d70df/covid_recovered_global.sql)
+-	[Covid-19_Dashboard.pbix](https://github.com/chinmoy2306/Covid-19_dashboard/blob/4b06a7fbcab8f90372d788d8c249dd7ddb0d70df/Covid-19_Dashboard.pbix):
 	- This power bi file contains the dashboard comprising of various visualizations performed on the dataset.
 	- Feel free to explore the Covid-19_Dashboard.pbix file to view the specific visualizations used in this analysis.
 ## Dashboard Components
