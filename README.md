@@ -22,7 +22,7 @@ The Covid-19 Dashboard includes the following components:
 -	Confirmed cases analysis (by Year & Month): Presents the number of confirmed cases by year and month, highlighting the top five periods with the highest case counts.
 -	Current vs Previous Period Comparison: Compares the number of confirmed cases to the same period in the previous year, allowing for an assessment of the growth or decline.
 ## Screenshots
-![image-1](https://github.com/chinmoy2306/Covid-19_dashboard/blob/26920ee38e8bc4c17d24f82a98e96d5389e8dc98/Screenshot-1.png)
+![[image-1]](https://github.com/chinmoy2306/Covid-19_dashboard/blob/1b9a20289b595761635094b9c28b8750fafdd459/Screenshot-4.jpg)
 ## Usage
 To explore the Covid-19 Dashboard:
 1.	Clone the repository: git clone https://github.com/chinmoy2306/Covid-19_dashboard.git
