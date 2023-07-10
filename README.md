@@ -21,6 +21,8 @@ The Covid-19 Dashboard includes the following components:
 -	Confirmed cases analysis (by Country): Shows the number of confirmed cases for each country in descending order of their occurrences and highlights the top five countries with the highest case counts.
 -	Confirmed cases analysis (by Year & Month): Presents the number of confirmed cases by year and month, highlighting the top five periods with the highest case counts.
 -	Current vs Previous Period Comparison: Compares the number of confirmed cases to the same period in the previous year, allowing for an assessment of the growth or decline.
+## Screenshots
+![image-1](Screenshot-1.png)
 ## Usage
 To explore the Covid-19 Dashboard:
 1.	Clone the repository: git clone https://github.com/chinmoy2306/Covid-19_dashboard.git
